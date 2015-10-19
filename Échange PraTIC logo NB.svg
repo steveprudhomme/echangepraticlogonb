@@ -15,7 +15,10 @@
    id="svg4505"
    version="1.1"
    inkscape:version="0.91pre4 r13712"
-   sodipodi:docname="Échange PraTIC logo NB.svg">
+   sodipodi:docname="Échange PraTIC logo NB.svg"
+   inkscape:export-filename="C:\Users\sprudhomme\Dropbox\PROJETS\CP\PROJETS\Projet Colloque TICFP 2015-2016\Échange PraTIC logo NB\Échange PraTIC logo NB.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4507">
     <filter
@@ -75,14 +78,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="259.39996"
+     inkscape:cx="83.633417"
      inkscape:cy="465.38631"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-4"
+     inkscape:window-width="1280"
+     inkscape:window-height="1005"
+     inkscape:window-x="1916"
      inkscape:window-y="-4"
      inkscape:window-maximized="1" />
   <metadata
@@ -93,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -850,5 +853,13 @@
            id="tspan4895-3">Pra</tspan><tspan
            style="fill:#fa6900;fill-opacity:1;stroke-width:4.5;stroke-miterlimit:4;stroke-dasharray:none"
            id="tspan4201-3-0-7">TIC</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path6251"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.3471,416.1083 19.18647,0 -19.32204,17.89834 -13.28818,0 z"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
 </svg>
